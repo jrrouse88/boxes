@@ -2,3 +2,8 @@ body {
     font-family: sans-serif;
     background: purple;
 }
+
+#title {
+    text-align: center;
+    text-decoration: underline;
+}
